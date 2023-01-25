@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "In this repository I write unit tests in Jest.  I apply both the AAA and TDD approach to make the code more readable to other developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talha-Hanif5666/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talha-Hanif5666/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/Talha-Hanif5666/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
